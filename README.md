@@ -1,5 +1,5 @@
 # Sign-Language-Recognition
-Enabling the people with talking disabilities to communicate their thoughts without any obstruction by capturing the hand motion using the techniques  of Image Processing and processing them utilizing Machine Learning Analysis to compose sentences
+Enabling people with talking disabilities to communicate their thoughts without any obstruction by capturing the hand motion using the techniques  of Image Processing and processing them utilizing Machine Learning Analysis to compose sentences
 
 ## Motivation
 One of the major drawback of our society is the barrier that is created between disabled or handicapped persons and the normal person. Communication is the only medium by which we can share our thoughts or convey the message but for a person with disability (deaf and dumb) faces difficulty in communication with normal person. Our aim is to design a system to help the person who is hearing impaired to communicate with the rest of the world using sign language or hand gesture recognition techniques by the process of converting the gestures to human readable texts.
